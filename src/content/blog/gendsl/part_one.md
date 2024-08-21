@@ -15,6 +15,7 @@ description: "Introduce the basic steps to implement an interpreter and the powe
 
 ## Table of contents
 
+## Intro
 In the last post I have introduced you the WHY and HOW I start the this project and WHAT the DSL looks like in the end. Starting from this post I will share the implementation of the whole project with you. 
 
 Generally, when we implement a language, the first thing comes in our mind is lexer and then parser. So in this post I will introduce to you how I implement my DSL with specified detail but less conception so that it won't be too confused I hope.

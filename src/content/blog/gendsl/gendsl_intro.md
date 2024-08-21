@@ -16,6 +16,7 @@ description:
 
 ## Table of contents
 
+## Intro
 The other day I ran into a meetup recording [video](https://www.youtube.com/watch?v=OyfBQmvr2Hc) in Youtube presented by William Byrd(a funny and very wise guy) talking about how to write an interpreter in scheme that evaluates scheme itself, which got me fascinated immediately by the simplicity, elegance and power of the meta programing language like common-lisp, scheme and other language in lisp family(you may heard of the parenthesis joke about lisp). I think this video had provided me exactly the right way to introduce a DSL for my rule engine that I have been working on for the last few weeks. So eventually I had came out a DSL framework that enables you to write you DSL in a minutes without dealing with any lexer or parser - [a general DSL](https://github.com/ccbhj/gendsl)
 
 I will make a series of blog to share my work and some thoughts during my development. But first, let me show you what I think about the beauty of the idea of DSL(Domain Specified Language) and the story about how I start this project.

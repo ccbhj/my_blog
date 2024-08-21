@@ -15,6 +15,7 @@ description: "Get more deep into the implement of the S-Expression and gendsl sy
 
 ## Table of contents
 
+## Intro
 In the last post, I had introduced you the basis of my tiny gendsl project - the PEG parser. So in this post, I gonna introduce you how to implement the syntax. 
 If you have read the first post of this series, you may remember my DSL syntax is actually kind of like lisp style syntax, which means a script is consist of [S-Expression](https://en.wikipedia.org/wiki/S-expression). Therefore, let me start with some introduction to the powerful S-Expression.
 
